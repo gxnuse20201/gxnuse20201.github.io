@@ -1,7 +1,6 @@
 http://example.com/2022/11/30/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0%E5%85%9A%E5%8F%B2%EF%BC%8C%E7%89%A2%E8%AE%B0%E5%88%9D%E5%BF%83%E4%BD%BF%E5%91%BD/
 http://example.com/2022/11/29/hello-world/
 http://example.com/
-http://example.com/tags/go/
-http://example.com/tags/gorm/
-http://example.com/tags/mysql/
+http://example.com/tags/%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0/
+http://example.com/tags/%E5%9B%A2%E6%97%A5%E6%B4%BB%E5%8A%A8/
 http://example.com/categories/%E7%8F%AD%E7%BA%A7%E5%AE%A3%E4%BC%A0/
